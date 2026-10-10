@@ -1,0 +1,12 @@
+# VSCode
+.vscode/
+
+# 编译产物
+build/
+*.o
+
+# 可执行文件
+modbus_rtu
+
+# 日志
+*.log
